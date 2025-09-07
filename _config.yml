@@ -1,7 +1,0 @@
-title: 100 Ngày Kanji
-remote_theme: "jekyll/minima@7d91bb5"
-minima:
-  skin: auto
-  nav_pages:
-    - bai-hoc/index.md
-
